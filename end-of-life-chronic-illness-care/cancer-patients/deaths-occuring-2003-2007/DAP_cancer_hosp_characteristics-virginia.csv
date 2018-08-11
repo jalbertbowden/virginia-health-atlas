@@ -1,0 +1,31 @@
+Provider ID,Hospital name,City,State,Type,Size,Status
+490004,Rockingham Memorial Hospital,Harrisonburg,VA,Community,Medium,Not-for-profit
+490005,Winchester Medical Center,Winchester,VA,Community,Large,Not-for-profit
+490007,Sentara Norfolk General Hospital,Norfolk,VA,Community,Large,Not-for-profit
+490009,University of Virginia Medical Center,Charlottesville,VA,AMC,Large,Not-for-profit
+490011,Bon Secours DePaul Medical Center,Norfolk,VA,Community,Medium,Not-for-profit
+490017,Maryview Medical Center,Portsmouth,VA,Community,Medium,Not-for-profit
+490018,Augusta Health Care,Fishersville,VA,Community,Medium,Not-for-profit
+490021,Centra Health,Lynchburg,VA,Community,Medium,Not-for-profit
+490022,Mary Washington Hospital,Fredericksburg,VA,Community,Large,Not-for-profit
+490024,Carilion Medical Center,Roanoke,VA,Community,Large,Not-for-profit
+490032,VCU Health System,Richmond,VA,AMC,Large,Not-for-profit
+490040,Inova Alexandria Hospital,Alexandria,VA,Community,Large,Not-for-profit
+490044,Louise Obici Memorial Hospital,Suffolk,VA,Community,Small,Not-for-profit
+490046,Sentara Leigh Hospital,Norfolk,VA,Community,Medium,Not-for-profit
+490048,Lewis-Gale Medical Center,Salem,VA,Community,Large,For-profit
+490050,Virginia Hospital Center,Arlington,VA,Community,Medium,Not-for-profit
+490052,Riverside Regional Medical Center,Newport News,VA,Community,Large,Not-for-profit
+490057,Sentara Virginia Beach Hospital,Virginia Beach,VA,Community,Medium,Not-for-profit
+490059,Bon Secours St. Mary's Hospital,Richmond,VA,Community,Large,Not-for-profit
+490063,Inova Fairfax Hospital,Falls Church,VA,Community,Large,Not-for-profit
+490066,Sentara Williamsburg Community Hospital,Williamsburg,VA,Community,Small,Not-for-profit
+490067,Southside Regional Medical Center,Petersburg,VA,Community,Large,For-profit
+490069,Memorial Regional Medical Center,Mechanicsville,VA,Community,Medium,Not-for-profit
+490075,Danville Regional Medical Center,Danville,VA,Community,Large,For-profit
+490077,Martha Jefferson Hospital,Charlottesville,VA,Community,Medium,Not-for-profit
+490079,Memorial Hospital,Martinsville,VA,Community,Medium,For-profit
+490093,Sentara CarePlex Hospital,Hampton,VA,Community,Medium,Not-for-profit
+490112,CJW Medical Center,Richmond,VA,Community,Large,For-profit
+490118,Henrico Doctors' Hospital,Richmond,VA,Community,Large,For-profit
+490120,Chesapeake General Hospital,Chesapeake,VA,Community,Medium,Not-for-profit
