@@ -1,0 +1,2 @@
+year,event,strat,geoid,geolab,denom,observed_benes,observed,predicted,obspred_ratio,crude,adj,se,l95,u95,popunit,geotype,suppr_limit,precision_limit,nbad
+2013,DEFIB,ageLT70,51,VA-Virginia,251652,307,308,314.835564832437,0.978288460402893,1.22391238694705,1.21638159854472,0.0610966404531507,1.08718630723424,1.36092975365208,1000,state,11,26,0

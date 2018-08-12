@@ -1,0 +1,2 @@
+year,event,strat,geoid,geolab,denom,observed_benes,observed,predicted,obspred_ratio,crude,adj,se,l95,u95,popunit,geotype,suppr_limit,precision_limit
+2013,OB,ALL,51,VA-Virginia,847216,81,360,609.316476241726,0.590825973097734,0.424921153519291,0.422029689498349,0.0183631771278303,0.380384080073243,0.468234787280733,1000,state,11,26

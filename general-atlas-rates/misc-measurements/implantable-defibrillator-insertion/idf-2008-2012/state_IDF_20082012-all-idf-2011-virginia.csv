@@ -1,0 +1,2 @@
+year,event,strat,geoid,geolab,denom,observed_benes,observed,predicted,obspred_ratio,crude,adj,se,l95,u95,popunit,geotype,suppr_limit,precision_limit
+2011,IDF,ALL,51,VA-Virginia,799371,1890,1909,2264.18461348249,0.843129128531535,2.3881276653769,2.40359964356549,0.0441303228062016,2.29747746195301,2.51462368716212,1000,state,11,26
