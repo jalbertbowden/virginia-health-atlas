@@ -1,0 +1,2 @@
+year,event,strat,geoid,geolab,denom,observed_benes,observed,predicted,obspred_ratio,crude,adj,se,l95,u95,popunit,geotype,suppr_limit,precision_limit,nbad
+2007,CASOC,ALL,51,VA-Virginia,712634,30281,52094,73190.5779365796,0.711758281853437,73.1006379151149,75.1161919774769,0.312968775550517,74.4732925670815,75.7646412922426,1000,state,11,26,0

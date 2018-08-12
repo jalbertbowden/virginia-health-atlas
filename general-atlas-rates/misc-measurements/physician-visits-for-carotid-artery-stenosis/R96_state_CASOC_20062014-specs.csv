@@ -1,0 +1,36 @@
+stepnum,step,param,value
+1,MAKE DENOM,-- DENOMINATOR --,---
+1,MAKE DENOM,years:,2006-2014
+1,MAKE DENOM,pct data:,100 (segs: 1 2 3 4 5)
+1,MAKE DENOM,age range:,65-99 (ageby: 31Dec)
+1,MAKE DENOM,Part A min req:,FULL
+1,MAKE DENOM,Part B min req:,FULL
+1,MAKE DENOM,...A/B definition:,in ('3' 'C')
+1,MAKE DENOM,max HMO:,0
+1,MAKE DENOM,...HMO definition:,not in ('0' '4')
+1,MAKE DENOM,Part D min req:,0
+1,MAKE DENOM,low income subsidy def:,in ('01' '02' '03' '04' '05' '06' '07' '08')
+2,GET EVENTS,--- EVENTS ---,---
+2,GET EVENTS,event files used:,PtB
+2,GET EVENTS,pct data:,100 (segs: 1 2 3 4 5)
+2,GET EVENTS,confirm visit setting:,1
+2,GET EVENTS,year range:,2006-2014
+2,GET EVENTS,ICD Dx code data source(s):,B
+2,GET EVENTS,--- ICD codes ---,---
+2,GET EVENTS,4331,CASoc
+2,GET EVENTS,43310,CASoc
+2,GET EVENTS,43311,CASoc
+3,CREATE RATES,--- RATES ---,---
+3,CREATE RATES,geo level:,STATE
+3,CREATE RATES,rate multiplier:,1000
+3,CREATE RATES,adjusters:,AGE SEX RACE
+3,CREATE RATES,stratification:,NONE
+3,CREATE RATES,--- AGE format ---,---
+3,CREATE RATES,LOW-70,ageLT70
+3,CREATE RATES,70-75,age70_74
+3,CREATE RATES,75-80,age75_79
+3,CREATE RATES,80-85,age80_84
+3,CREATE RATES,85-HIGH,age85plus
+3,CREATE RATES,--- RACE format ---,---
+3,CREATE RATES,2,raceB
+3,CREATE RATES,**OTHER**,raceOth
