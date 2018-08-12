@@ -1,0 +1,2 @@
+year,event,strat,geoid,geolab,denom,observed_benes,observed,predicted,obspred_ratio,crude,adj,se,l95,u95,popunit,geotype,suppr_limit,precision_limit
+2012,ED,ALL,51,VA-Virginia,820327,5563,6542,11513.6170571543,0.568196768011745,0.00797486855851386,0.00828506846245608,0.0000962352658174792,0.00808657640179586,0.00848843268361879,1,state,11,26
