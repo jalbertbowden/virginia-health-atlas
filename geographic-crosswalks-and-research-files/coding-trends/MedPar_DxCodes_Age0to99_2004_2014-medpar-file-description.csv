@@ -1,0 +1,3 @@
+"The MedPAR File contains inpatient hospital and skilled nursing facility (SNF) final action stay records. Each MedPAR record represents a stay in an inpatient hospital or SNF. Each MedPAR record may represent one claim or multiple claims, depending on the length of a beneficiary's stay and the amount of services used throughout the stay."
+MedPar Data Dictionary - https://www.resdac.org/cms-data/files/op-rif/data-documentation
+Definition of MedPar Dx Code: The diagnosis code identifying the beneficiary's principal or other diagnosis  This field is the actual principal diagnosis code (1st occurrence) or one of up to 9 other diagnosis codes that are present on the last claim record included in the stay.

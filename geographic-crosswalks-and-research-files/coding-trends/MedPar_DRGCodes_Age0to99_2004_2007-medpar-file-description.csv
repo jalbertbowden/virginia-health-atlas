@@ -1,0 +1,4 @@
+"The MedPAR File contains inpatient hospital and skilled nursing facility (SNF) final action stay records. Each MedPAR record represents a stay in an inpatient hospital or SNF. Each MedPAR record may represent one claim or multiple claims, depending on the length of a beneficiary's stay and the amount of services used throughout the stay."
+MedPar Data Dictionary - https://www.resdac.org/cms-data/files/op-rif/data-documentation
+DRG (Diagnostic Related Groups) Definition: a statistical system of classifying any inpatient stay into groups for the purposes of payment. The DRG classification system divides possible diagnoses into more than 20 major body systems and subdivides them (538) for the purpose of Medicare reimbursement. DRGs have a two-tiered structure: 1) With CC - Complication/Comorbidity; and 2) Without CC - No Complication/Comorbidity
+"MS-DRGs replaced DRGs in 2007, which is why there is no data from 2008 forward"

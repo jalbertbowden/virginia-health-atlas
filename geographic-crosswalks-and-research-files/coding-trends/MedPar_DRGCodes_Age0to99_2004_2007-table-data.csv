@@ -1,0 +1,872 @@
+Diagnostic-Related Group code,Diagnostic-Related Group label,# of records with this Diagnositic-Related Group code in 2004,# of people with this Diagnotic-Related Group code in 2004,# of records with this Diagnositic-Related Group code in 2005,# of people with this Diagnotic-Related Group code in 2005,# of records with this Diagnositic-Related Group code in 2006,# of people with this Diagnotic-Related Group code in 2006,# of records with this Diagnositic-Related Group code in 2007,# of people with this Diagnotic-Related Group code in 2007
+1,"Craniotomy, Age Greater than 17 with CC",26939,25942,24492,23568,24541,23611,18575,17911
+2,"Craniotomy, Age Greater than 17 without CC",10628,10076,10029,9564,9595,9161,7119,6821
+3,"Craniotomy, Age 0-17",.,.,.,.,.,.,.,.
+6,Carpal Tunnel Release,395,388,275,272,276,273,185,184
+7,"Peripheral and Cranial Nerve and Other Nervous
+System Procedures with CC",15824,15465,15380,15041,14442,14169,10763,10599
+8,"Peripheral and Cranial Nerve and Other Nervous
+System Procedures without CC",3668,3612,3551,3481,2932,2884,2112,2079
+9,Spinal Disorders and Injuries,5610,4844,5475,4798,5545,4775,3460,3057
+10,Nervous System Neoplasms with CC,23035,19413,22779,19284,22274,18831,15822,13677
+11,Nervous System Neoplasms without CC,4952,4298,4738,4239,4489,3909,3157,2790
+12,Degenerative Nervous System Disorders,149683,124886,156241,129607,159708,131436,110406,92685
+13,Multiple Sclerosis and Cerebellar Ataxia,10741,7783,11100,8038,11398,8220,7875,5930
+14,Intracranial Hemorrhage or Cerebral Infarction,270098,241029,316232,274533,298916,259589,206531,184962
+15,"Nonspecific Cerebrovascular and Precerebral
+Occlusion without Infarction",120539,104475,56978,50187,48468,42432,30025,26612
+16,Nonspecific Cerebrovascular Disorders with CC,19795,18727,21502,20333,24840,23359,17444,16545
+17,"Nonspecific Cerebrovascular Disorders without
+CC",4843,4573,5109,4850,5275,4984,3598,3412
+18,Cranial and Peripheral Nerve Disorders with CC,37452,31739,38015,32113,38133,32295,27738,23801
+19,"Cranial and Peripheral Nerve Disorders without
+CC",10842,9827,10492,9390,9892,8845,6973,6318
+20,Nervous System Infection Except Viral Meningitis,8818,7091,8802,7096,6635,5423,0,0
+21,Viral Meningitis,2392,2211,2326,2129,2265,2133,1661,1569
+22,Hypertensive Encephalopathy,3520,3351,3372,3216,3549,3382,2749,2629
+23,Nontraumatic Stupor and Coma,13795,13212,14289,13687,14153,13598,9120,8785
+24,"Seizure and Headache, Age Greater than 17 with
+CC",68989,59378,68121,59002,51939,45526,0,0
+25,"Seizure and Headache, Age Greater than 17
+without CC",32126,28513,31193,27704,22824,20479,0,0
+26,"Seizure and Headache, Age 0-17",42,39,44,37,47,41,27,25
+27,"Traumatic Stupor and Coma, Coma Greater than
+One Hour",5969,5809,6472,6321,6855,6698,5247,5145
+28,"Traumatic Stupor and Coma, Coma Less than
+One Hour, Age Greater than 17 with CC",21513,19621,24052,22031,25661,23413,19209,17825
+29,"Traumatic Stupor and Coma, Coma Less than
+One Hour, Age Greater than 17 without CC",8885,8263,9129,8516,9257,8703,7005,6608
+30,"Traumatic Stupor and Coma, Coma Less than
+One Hour, Age 0-17",.,.,0,0,0,0,0,0
+31,"Concussion, Age Greater than 17 with CC",5318,5207,5373,5258,5575,5463,3946,3882
+32,"Concussion, Age Greater than 17 without CC",2218,2173,2145,2091,2040,2000,1435,1401
+34,Other Disorders of Nervous System with CC,44606,41606,47316,44012,48818,45191,35121,32795
+35,Other Disorders of Nervous System without CC,22386,20561,23017,21093,22447,20542,15500,14295
+36,Retinal Procedures,1357,1276,1136,1064,799,765,99,98
+37,Orbital Procedures,1200,1182,1170,1154,1164,1139,816,810
+38,Primary Iris Procedures,53,53,56,55,53,53,45,45
+39,Lens Procedures with or without Vitrectomy,422,413,318,313,268,261,163,163
+40,"Extraocular Procedures Except Orbit, Age Greater
+than 17",1349,1330,1172,1164,1121,1109,784,775
+42,"Intraocular Procedures Except Retina, Iris and
+Lens",1083,1063,895,877,960,941,916,891
+43,Hyphema,137,135,162,161,152,148,79,78
+44,Acute Major Eye Infections,1344,1252,1451,1366,1425,1305,1007,940
+45,Neurological Eye Disorders,2887,2826,2912,2848,3013,2957,2157,2121
+46,"Other Disorders of the Eye, Age Greater than 17
+with CC",4763,4556,4978,4751,5125,4903,3729,3593
+47,"Other Disorders of the Eye, Age Greater than 17
+without CC",2300,2184,2295,2165,2266,2146,1495,1425
+48,"Other Disorders of the Eye, Age 0-17",0,0,.,.,0,0,.,.
+49,Major Head and Neck Procedures,2504,2483,2463,2437,2539,2511,1922,1909
+50,Sialoadenectomy,2195,2187,1953,1941,1992,1982,1303,1295
+51,"Salivary Gland Procedures Except
+Sialoadenectomy",192,191,187,186,179,179,143,143
+52,Cleft Lip and Palate Repair,159,157,174,174,248,247,137,137
+53,"Sinus and Mastoid Procedures, Age Greater than
+17",2172,2132,2066,2030,1873,1846,1321,1294
+54,"Sinus and Mastoid Procedures, Age 0-17",.,.,.,.,0,0,.,.
+55,"Miscellaneous Ear, Nose, Mouth and Throat
+Procedures",1382,1353,1314,1280,1203,1176,897,888
+56,Rhinoplasty,438,430,431,427,352,349,249,248
+57,"Tonsillectomy and Adenoidectomy Procedures
+Except Tonsillectomy and/or Adenoidectomy
+Only, Age Greater than 17",665,661,732,728,805,801,500,498
+58,"Tonsillectomy and Adenoidectomy Procedures
+Except Tonsillectomy and/or Adenoidectomy
+Only, Age 0-17",0,0,.,.,0,0,0,0
+59,"Tonsillectomy and/or Adenoidectomy Only, Age
+Greater than 17",102,102,124,124,108,108,80,80
+60,"Tonsillectomy and/or Adenoidectomy Only, Age
+0-17",.,.,.,.,.,.,.,.
+61,"Myringotomy with Tube Insertion, Age Greater
+than 17",204,203,212,207,211,211,140,139
+62,"Myringotomy with Tube Insertion, Age 0-17",.,.,.,.,.,.,0,0
+63,"Other Ear, Nose, Mouth and Throat Operating
+Room Procedures",2806,2758,2749,2706,2629,2598,1866,1847
+64,"Ear, Nose, Mouth and Throat Malignancy",5667,4513,5358,4357,5032,4124,3579,2989
+65,Dysequilibrium,44952,42677,44066,41837,43681,41470,31891,30563
+66,Epistaxis,8317,7742,8528,8012,8283,7723,5924,5558
+67,Epiglottitis,407,397,376,365,377,364,238,233
+68,"Otitis Media and URI, Age Greater than 17 with
+CC",12608,12192,21783,21086,16296,15766,8908,8646
+69,"Otitis Media and URI, Age Greater than 17 without
+CC",4062,3938,6726,6516,4667,4524,2549,2492
+70,"Otitis Media and URI, Age 0-17",27,26,38,37,50,47,32,32
+71,Laryngotracheitis,68,68,86,83,64,63,47,46
+72,Nasal Trauma and Deformity,1267,1205,1579,1510,1633,1567,1290,1231
+73,"Other Ear, Nose, Mouth and Throat Diagnoses,
+Age Greater than 17",8993,8486,10063,9485,11165,10529,8412,7945
+74,"Other Ear, Nose, Mouth and Throat Diagnoses,
+Age 0-17",.,.,.,.,.,.,.,.
+75,Major Chest Procedures,45588,44822,47598,46752,46261,45431,34503,33968
+76,"Other Respiratory System O.R. Procedures with
+CC",48292,47290,48631,47613,46647,45606,34781,34175
+77,"Other Respiratory System O. R. Procedures
+without CC",2138,2120,2020,1990,1751,1730,1252,1236
+78,Pulmonary Embolism,50936,46742,55561,51158,59570,54588,44209,41070
+79,"Respiratory Infections and Inflammations, Age
+Greater than 17 with CC",181816,149446,181863,150347,174184,144562,133471,112929
+80,"Respiratory Infections and Inflammations, Age
+Greater than 17 without CC",12740,11391,12678,11354,11019,9831,7591,6836
+81,"Respiratory Infections and Inflammations, Age
+0-17",.,.,.,.,.,.,.,.
+82,Respiratory Neoplasms,78818,63602,76518,61899,73970,60177,52368,43494
+83,Major Chest Trauma with CC,8066,7540,8175,7643,8514,7981,6642,6291
+84,Major Chest Trauma without CC,2139,2002,2076,1929,2023,1912,1398,1327
+85,Pleural Effusion with CC,25040,22324,26062,23136,26395,23414,20057,17843
+86,Pleural Effusion without CC,3139,2919,2945,2758,2748,2537,1936,1796
+87,Pulmonary Edema and Respiratory Failure,102781,86884,124245,104787,132071,110294,103643,87787
+88,Chronic Obstructive Pulmonary Disease,462218,332632,505820,367178,458429,330548,324937,245972
+89,"Simple Pneumonia and Pleurisy, Age Greater
+than 17 with CC",593372,505517,645673,549157,567356,483432,403164,351087
+90,"Simple Pneumonia and Pleurisy, Age Greater
+than 17 without CC",71609,66156,79248,73180,65092,59960,43429,40192
+91,"Simple Pneumonia and Pleurisy, Age 0-17",79,67,84,74,65,61,49,47
+92,Interstitial Lung Disease with CC,18135,15766,18337,15985,17970,15655,13217,11706
+93,Interstitial Lung Disease without CC,2298,2127,2172,2018,1722,1612,1128,1071
+94,Pneumothorax with CC,14142,12954,14565,13359,14769,13514,10997,10132
+95,Pneumothorax without CC,1813,1741,1896,1812,1735,1652,1219,1179
+96,"Bronchitis and Asthma, Age Greater than 17 with
+CC",58799,54663,67152,62680,59212,55129,41228,38699
+97,"Bronchitis and Asthma, Age Greater than 17
+without CC",27531,25165,31060,28528,24377,22315,15872,14733
+98,"Bronchitis and Asthma, Age 0-17",17,15,18,17,29,26,21,21
+99,Respiratory Signs and Symptoms with CC,26677,25705,27161,26103,27249,26197,20167,19414
+100,Respiratory Signs and Symptoms without CC,9175,8887,8881,8550,7855,7581,5392,5235
+101,Other Respiratory System Diagnoses with CC,27835,26259,28454,26825,29621,27957,21309,20201
+102,Other Respiratory System Diagnoses without CC,7575,7258,7425,7026,6747,6403,4717,4487
+103,"Heart Transplant or Implant of Heart Assist
+System",604,601,892,867,909,875,735,706
+104,"Cardiac Valve Procedures and Other Major
+Cardiothoracic Procedures with Cardiac
+Catheterization",20599,20575,19229,19222,18986,18972,13260,13249
+105,"Cardiac Valve Procedures and Other Major
+Cardiothoracic Procedures without Cardiac
+Catheterization",31384,31283,31687,31604,31526,31412,23174,23131
+106,Coronary Bypass with PTCA,3514,3513,3311,3311,3106,3106,2150,2150
+107,CORONARY BYPASS W CARDIAC CATH,68325,68302,46170,46154,0,0,0,0
+108,Other Cardiothoracic Procedures,8946,8926,9386,9375,8839,8831,5859,5855
+109,"CORONARY BYPASS W/O PTCA OR CARDIAC
+CATH",49604,49594,34235,34230,0,0,0,0
+110,Major Cardiovascular Procedures with CC,56227,55404,56365,55517,55060,54173,39822,39206
+111,Major Cardiovascular Procedures without CC,10038,9962,10462,10341,10189,10072,7411,7332
+113,"Amputation for Circulatory System Disorders
+Except Upper Limb and Toe",36401,33557,33226,30713,29835,27570,20549,19177
+114,"Upper Limb and Toe Amputation for Circulatory
+System Disorders",8476,8061,7807,7462,7240,6922,5018,4843
+115,"PRM CARD PACEM IMPL W AMI/HR/SHOCK
+OR AICD LEAD OR GNRTR",21286,21159,16164,16075,0,0,0,0
+116,"OTHER PERMANENT CARDIAC PACEMAKER
+IMPLANT",115938,115553,84081,83852,0,0,0,0
+117,"Cardiac Pacemaker Revision Except Device
+Replacement",5153,5012,5556,5405,7427,7221,6265,6083
+118,Cardiac Pacemaker Device Replacement,7235,7229,7594,7588,7883,7871,5830,5830
+119,Vein Ligation and Stripping,996,986,901,882,755,748,454,454
+120,Other Circulatory System O.R. Procedures,36435,33732,33024,30750,30225,28274,21422,20259
+121,"Circulatory Disorders with Acute Myocardial
+Infarction and Major Complications, Discharged
+Alive",156509,140112,148339,133344,134240,121308,96647,88212
+122,"Circulatory Disorders with Acute Myocardial
+Infarction without Major Complications,
+Discharged Alive",61535,57605,54955,51496,48603,45705,33796,31935
+123,"Circulatory Disorders with Acute Myocardial
+Infarction, Expired",32374,32369,28851,28849,24291,24288,16639,16639
+124,"Circulatory Disorders Except Acute Myocardial
+Infarction with Cardiac Catheterization and
+Complex Diagnosis",126770,124398,114199,112310,106515,104684,74597,73602
+125,"Circulatory Disorders Except Acute Myocardial
+Infarction with Cardiac Catheterization without
+Complex Diagnosis",95199,94150,87110,86238,82655,81826,58237,57773
+126,Acute and Subacute Endocarditis,7242,6003,6925,5774,6776,5668,4756,4033
+127,Heart Failure and Shock,787136,552239,764292,535707,731176,512539,506822,371250
+128,Deep Vein Thrombophlebitis,6307,5932,5178,4950,4127,3953,2633,2513
+129,"Cardiac Arrest, Unexplained",4190,4107,4258,4190,3998,3926,2952,2896
+130,Peripheral Vascular Disorders with CC,112104,99642,109449,97479,106131,94469,74433,67215
+131,Peripheral Vascular Disorders without CC,35321,32917,34158,31691,31496,29166,21279,19926
+132,Atherosclerosis with CC,132844,119603,114694,103783,99472,90355,65704,60445
+133,Atherosclerosis without CC,18798,17670,16984,15933,16121,14974,10433,9668
+134,Hypertension,70036,63728,68688,62362,70250,63386,50515,45973
+135,"Cardiac Congenital and Valvular Disorders, Age
+Greater than 17 with CC",11740,10873,11720,10859,11233,10395,8169,7611
+136,"Cardiac Congenital and Valvular Disorders, Age
+Greater than 17 without CC",3518,3289,3302,3074,3242,3033,2170,1996
+137,"Cardiac Congenital and Valvular Disorders, Age
+0-17",.,.,0,0,.,.,0,0
+138,"Cardiac Arrhythmia and Conduction Disorders
+with CC",223851,202510,226225,203552,230394,206949,172495,156338
+139,"Cardiac Arrhythmia and Conduction Disorders
+without CC",90532,84609,86076,80543,82372,76805,59067,55562
+140,Angina Pectoris,42762,40923,35807,34326,30160,28884,19904,19141
+141,Syncope and Collapse with CC,130696,122942,133452,125184,137316,128656,100327,94766
+142,Syncope and Collapse without CC,59394,56754,57200,54569,53201,50753,36367,34930
+143,Chest Pain,257055,239817,240685,224176,231769,215044,166634,155983
+144,Other Circulatory System Diagnoses with CC,118928,103742,124322,108164,125710,109121,91052,80597
+145,Other Circulatory System Diagnoses without CC,13651,12804,13094,12311,12154,11373,7999,7494
+146,Rectal Resection with CC,10563,10537,10192,10167,9607,9574,6919,6903
+147,Rectal Resection without CC,2636,2630,2612,2603,2424,2416,1714,1712
+148,Major Small and Large Bowel Procedures with CC,134704,130845,131812,128102,96212,94030,0,0
+149,"Major Small and Large Bowel Procedures without
+CC",20073,19954,19822,19704,18696,18587,13573,13499
+150,Peritoneal Adhesiolysis with CC,22907,22710,22900,22709,23663,23435,17371,17259
+151,Peritoneal Adhesiolysis without CC,5454,5436,5382,5358,5274,5252,3833,3827
+152,Minor Small and Large Bowel Procedures with CC,5088,5073,4997,4983,4948,4929,3673,3665
+153,"Minor Small and Large Bowel Procedures without
+CC",2104,2102,1946,1944,1892,1889,1349,1349
+154,"Stomach, Esophageal and Duodenal Procedures,
+Age Greater than 17 with CC",28096,27745,26833,26490,19593,19380,0,0
+155,"Stomach, Esophageal and Duodenal Procedures,
+Age Greater than 17 without CC",6077,6051,6014,5983,5833,5804,4386,4376
+156,"Stomach, Esophageal and Duodenal Procedures,
+Age 0-17",11,.,.,.,.,.,.,.
+157,Anal and Stomal Procedures with CC,8394,8241,8150,7997,8381,8187,6019,5902
+158,Anal and Stomal Procedures without CC,4046,4000,3638,3592,3257,3220,2247,2222
+159,"Hernia Procedures Except Inguinal and Femoral,
+Age Greater than 17 with CC",19055,18897,19175,19000,18808,18651,13802,13720
+160,"Hernia Procedures Except Inguinal and Femoral,
+Age Greater than 17 without CC",12019,11932,11673,11600,10753,10677,7420,7382
+161,"Inguinal and Femoral Hernia Procedures, Age
+Greater than 17 with CC",10375,10311,10063,10002,9431,9379,6858,6829
+162,"Inguinal and Femoral Hernia Procedures, Age
+Greater than 17 without CC",5467,5449,4812,4803,4306,4295,2962,2953
+163,"Hernia Procedures, Age 0-17",14,13,12,11,11,.,.,.
+164,"Appendectomy with Complicated Principal
+Diagnosis with CC",5887,5881,6084,6075,6172,6161,4482,4481
+165,"Appendectomy with Complicated Principal
+Diagnosis without CC",2504,2498,2418,2414,2430,2428,1844,1840
+166,"Appendectomy without Complicated Principal
+Diagnosis with CC",5021,5021,5211,5211,5498,5497,4245,4245
+167,"Appendectomy without Complicated Principal
+Diagnosis without CC",4741,4741,4943,4943,4993,4993,3976,3975
+168,Mouth Procedures with CC,1563,1548,1546,1533,1580,1566,1213,1206
+169,Mouth Procedures without CC,757,750,774,761,728,715,581,579
+170,Other Digestive System O.R. Procedures with CC,17793,17591,18046,17846,17857,17674,13054,12933
+171,"Other Digestive System Operating Room
+Procedures without CC",1514,1511,1436,1428,1343,1339,1054,1051
+172,Digestive Malignancy with CC,42115,36060,42007,35835,40649,34660,28369,24516
+173,Digestive Malignancy without CC,7552,6881,7230,6615,6648,6065,4350,3985
+174,GI Hemorrhage with CC,283814,249605,273875,240575,262364,230433,184249,164057
+175,GI Hemorrhage without CC,41473,39225,38190,36142,34416,32495,22794,21622
+176,Complicated Peptic Ulcer,15665,14784,15333,14473,14245,13408,10260,9716
+177,Uncomplicated Peptic Ulcer with CC,9032,8801,8248,8037,8387,8181,5941,5781
+178,Uncomplicated Peptic Ulcer without CC,3436,3348,2961,2887,2674,2606,1873,1829
+179,Inflammatory Bowel Disease,15800,12476,15939,12526,15987,12512,11737,9515
+180,GI Obstruction with CC,100053,88014,99227,87303,99593,87396,71785,64115
+181,GI Obstruction without CC,30327,27815,29533,27079,28549,26140,20300,18841
+182,"Esophagitis, Gastroenteritis and Miscellaneous
+Digestive Disorders, Age Greater than 17 with CC",322547,287567,332782,294690,358218,317528,214746,197330
+183,"Esophagitis, Gastroenteritis and Miscellaneous
+Digestive Disorders, Age Greater than 17 without
+CC",102142,96388,97726,91928,94241,88354,63587,60208
+184,"Esophagitis, Gastroenteritis and Miscellaneous
+Digestive Disorders, Age 0-17",131,113,147,130,160,139,103,95
+185,"Dental and Oral Diseases Except Extractions and
+Restorations, Age Greater than 17",6533,6234,7034,6748,6864,6574,5209,4994
+186,"Dental and Oral Diseases Except Extractions and
+Restorations, Age 0-17",.,.,.,.,.,.,.,.
+187,Dental Extractions and Restorations,609,605,652,647,613,610,445,443
+188,"Other Digestive System Diagnoses, Age Greater
+than 17 with CC",101513,93396,103603,95131,100901,92428,67925,62920
+189,"Other Digestive System Diagnoses, Age Greater
+than 17 without CC",17949,17156,18160,17323,17272,16431,11385,10923
+190,"Other Digestive System Diagnoses, Age 0-17",113,90,117,98,85,70,16,16
+191,"Pancreas, Liver and Shunt Procedures with CC",10514,10339,10717,10523,10370,10201,7740,7649
+192,"Pancreas, Liver and Shunt Procedures without
+CC",1363,1342,1480,1464,1338,1310,1033,1026
+193,"Biliary Tract Procedures Except Only
+Cholecystectomy with or without Common Duct
+Exploration with CC",4432,4408,3859,3829,3608,3585,2574,2563
+194,"Biliary Tract Procedures Except Only
+Cholecystectomy with or without Common Duct
+Exploration without CC",498,496,483,481,418,415,286,285
+195,"Cholecystectomy with Common Duct Exploration
+with CC",3129,3129,2794,2794,2376,2376,1662,1661
+196,"Cholecystectomy with Common Duct Exploration
+without CC",665,665,591,591,489,488,341,341
+197,"Cholecystectomy Except by Laparoscope without
+Common Duct Exploration with CC",17161,17159,16089,16086,14905,14897,10090,10087
+198,"Cholecystectomy Except by Laparoscope without
+Common Duct Exploration without CC",4538,4536,4075,4071,3562,3562,2346,2346
+199,"Hepatobiliary Diagnostic Procedure for
+Malignancy",1456,1452,1452,1446,1365,1361,968,968
+200,"HEPATOBILIARY DIAGNOSTIC PROCEDURE
+FOR NON-MALIGNANCY",968,965,972,969,850,846,641,641
+201,Other Hepatobiliary or Pancreas O.R. Procedures,2674,2640,2660,2624,2629,2596,1932,1908
+202,Cirrhosis and Alcoholic Hepatitis,29773,21744,29959,21960,28627,21050,21094,15978
+203,Malignancy of Hepatobiliary System or Pancreas,36009,29866,36219,30022,34666,28744,24587,20890
+204,Disorders of Pancreas Except Malignancy,77932,62125,74176,59322,73149,58426,52550,42777
+205,"Disorders of Liver Except Malignancy, Cirrhosis
+and Alcoholic Hepatitis with CC",34330,24606,35517,25086,34826,24751,26407,19240
+206,"Disorders of Liver Except Malignancy, Cirrhosis
+and Alcoholic Hepatitis without CC",2983,2771,2839,2625,2698,2492,1870,1742
+207,Disorders of the Biliary Tract with CC,41289,37445,42740,38693,43298,39219,31704,28855
+208,Disorders of the Biliary Tract without CC,12542,11952,12257,11665,11607,11000,7841,7480
+209,"MAJOR JOINT & LIMB REATTACHMENT
+PROCEDURES OF LOWER EXTREMITY",465291,442514,365345,352147,0,0,0,0
+210,"Hip and Femur Procedures Except Major Joint
+Procedures, Age Greater than 17 with CC",125406,122549,125329,122679,124697,121898,91840,90098
+211,"Hip and Femur Procedures Except Major Joint
+Procedures, Age Greater than 17 without CC",26035,25789,25499,25298,22674,22500,16257,16136
+212,"Hip and Femur Procedures Except Major Joint
+Procedures, Age 0-17",13,13,13,13,15,14,14,12
+213,"Amputation for Musculoskeletal System and
+Connective Tissue Disorders",10236,9327,9090,8430,8190,7705,5842,5510
+216,"Biopsies of Musculoskeletal System and
+Connective Tissue",18600,17682,19995,19078,19433,18584,17387,16591
+217,"Wound Debridement and Skin Graft Except Hand
+for Musculoskeletal and Connective Tissue
+Disorders",18278,17401,16278,15449,15189,14421,10635,10188
+218,"Lower Extremity and Humerus Procedures Except
+Hip, Foot and Femur, Age Greater than 17 with
+CC",28543,27703,30322,29451,30998,30068,24041,23427
+219,"Lower Extremity and Humerus Procedures Except
+Hip, Foot and Femur, Age Greater than 17 without
+CC",21154,20780,21054,20718,19300,18981,14674,14452
+220,"Lower Extremity and Humerus Procedures Except
+Hip, Foot and Femur, Age 0-17",.,.,.,.,.,.,.,.
+223,"Major Shoulder/Elbow Procedures or Other Upper
+Extremity Procedures with CC",13295,13172,12328,12248,11651,11551,8567,8511
+224,"Shoulder, Elbow or Forearm Procedures Except
+Major Joint Procedures without CC",10559,10467,9553,9485,8500,8443,5772,5741
+225,Foot Procedures,6472,6352,6359,6246,6145,6030,4546,4478
+226,Soft Tissue Procedures with CC,6787,6706,6893,6820,7386,7290,5646,5583
+227,Soft Tissue Procedures without CC,5056,5007,4992,4937,4679,4645,3411,3383
+228,"Major Thumb or Joint Procedures or Other Hand
+or Wrist Procedures with CC",2612,2575,2637,2598,2563,2530,1770,1754
+229,"Hand or Wrist Procedures Except Major Joint
+Procedures without CC",1176,1172,1055,1053,975,966,635,635
+230,"Local Excision and Removal of Internal Fixation
+Devices of Hip and Femur",2548,2504,2482,2436,2384,2336,1686,1656
+232,Arthroscopy,688,686,561,558,459,458,293,292
+233,"Other Musculoskeletal System and Connective
+Tissue O.R. Procedures with CC",15995,15358,18908,18080,22821,21718,16609,15907
+234,"Other Musculoskeletal System and Connective
+Tissue O.R. Procedures without CC",8050,7747,9181,8841,10738,10299,7356,7100
+235,Fractures of Femur,15998,13842,15147,13123,14175,12350,9044,7977
+236,Fractures of Hip and Pelvis,139313,115389,132857,110094,127506,105640,77756,66001
+237,"Sprains, Strains and Dislocations of Hip, Pelvis
+and Thigh",3405,3059,3339,2991,3067,2768,2041,1867
+238,Osteomyelitis,18731,15395,18844,15426,18702,15210,13522,11230
+239,"Pathological Fractures and Musculoskeletal and
+Connective Tissue Malignancy",53606,46804,49307,43381,46256,40849,30217,27295
+240,Connective Tissue Disorders with CC,15630,13476,15653,13445,14885,12849,10534,9226
+241,Connective Tissue Disorders without CC,4737,4223,4897,4365,4362,3861,2795,2533
+242,Septic Arthritis,5199,4557,5155,4563,4904,4323,3477,3091
+243,Medical Back Problems,150285,125996,147712,124330,145497,122425,99245,85768
+244,"Bone Diseases and Specific Arthropathies with
+CC",51214,47940,50107,46887,45853,42814,27521,25764
+245,"Bone Diseases and Specific Arthropathies without
+CC",47760,45281,47821,45300,42763,40507,25739,24594
+246,NON-SPECIFIC ARTHROPATHIES,8223,7782,6844,6469,6222,5847,3894,3691
+247,"Signs and Symptoms of Musculoskeletal System
+and Connective Tissue",46454,42737,53893,49101,63467,57092,48416,43577
+248,"Tendonitis, Myositis and Bursitis",29856,26861,31285,28040,30975,27769,21962,20122
+249,"Aftercare, Musculoskeletal System and
+Connective Tissue",82285,73305,96322,86252,106882,95354,73832,66462
+250,"Fractures, Sprains, Strains and Dislocations of
+Forearm, Hand and Foot, Age Greater than 17
+with CC",7404,6724,7249,6595,7641,6976,5281,4852
+251,"Fractures, Sprains, Strains and Dislocations of
+Forearm, Hand and Foot, Age Greater than 17
+without CC",5654,5165,5746,5220,5521,5046,3572,3284
+252,"Fractures, Sprains, Strains and Dislocations of
+Forearm, Hand and Foot, Age 0-17",.,.,.,.,0,0,0,0
+253,"Fractures, Sprains, Strains and Dislocations of
+Upper Arm and Lower Leg Except Foot, Age
+Greater than 17 with CC",39358,34146,39698,34478,40697,35314,28560,25279
+254,"Fractures, Sprains, Strains and Dislocations of
+Upper Arm and Lower Leg Except Foot, Age
+Greater than 17 without CC",26065,22723,25339,22265,24299,21240,15857,14119
+255,"Fractures, Sprains, Strains and Dislocations of
+Upper Arm and Lower Leg Except Foot, Age 0-17",.,.,0,0,.,.,0,0
+256,"Other Musculoskeletal System and Connective
+Tissue Diagnoses",26897,24942,29688,27523,31500,29103,22037,20588
+257,Total Mastectomy for Malignancy with CC,13562,13531,13193,13165,12329,12306,9106,9089
+258,Total Mastectomy for Malignancy without CC,12052,12016,11434,11407,10444,10421,7718,7703
+259,Subtotal Mastectomy for Malignancy with CC,2889,2857,2601,2590,2454,2434,1681,1663
+260,Subtotal Mastectomy for Malignancy without CC,2925,2909,2297,2282,1928,1921,1256,1249
+261,"Breast Procedure for Nonmalignancy Except
+Biopsy and Local Excision",1625,1616,1564,1552,1491,1480,974,970
+262,"Breast Biopsy and Local Excision for
+Nonmalignancy",655,651,602,597,551,544,407,407
+263,"Skin Graft and/or Debridement for Skin Ulcer or
+Cellulitis with CC",27354,25297,26105,24164,24479,22755,17099,16052
+264,"Skin Graft and/or Debridement for Skin Ulcer or
+Cellulitis without CC",4049,3936,4085,3982,3425,3328,2249,2198
+265,"Skin Graft and/or Debridement Except for Skin
+Ulcer or Cellulitis with CC",4409,4297,4224,4136,4062,3979,3027,2973
+266,"Skin Graft and/or Debridement Except for Skin
+Ulcer or Cellulitis without CC",2346,2306,2309,2276,2151,2110,1626,1592
+267,Perianal and Pilonidal Procedures,277,274,266,265,238,236,155,153
+268,"Skin, Subcutaneous Tissue and Breast Plastic
+Procedures",1045,1041,1000,988,988,976,666,660
+269,"Other Skin, Subcutaneous Tissue and Breast
+Procedures with CC",11364,11217,11925,11761,12441,12255,9490,9352
+270,"Other Skin, Subcutaneous Tissue and Breast
+Procedures without CC",2633,2615,2681,2659,2609,2592,1801,1792
+271,Skin Ulcers,43998,36158,44560,36319,42847,34699,29383,24476
+272,Major Skin Disorders with CC,6923,6349,6987,6399,7013,6396,4850,4479
+273,Major Skin Disorders without CC,1949,1797,1869,1745,1704,1579,1132,1056
+274,Malignant Breast Disorders with CC,4270,3809,4387,3872,4248,3761,2912,2626
+275,Malignant Breast Disorders without CC,1491,1361,1411,1301,1429,1299,924,852
+276,Nonmalignant Breast Disorders,1954,1793,2030,1847,1873,1753,1559,1477
+277,"Cellulitis, Age Greater than 17 with CC",135292,115971,143138,122279,146588,124973,110267,96045
+278,"Cellulitis, Age Greater than 17 without CC",46808,42593,47167,42986,45542,41494,32306,29846
+279,"Cellulitis, Age 0-17",13,11,14,13,13,12,11,11
+280,"Trauma to Skin, Subcutaneous Tissue and
+Breast, Age Greater than 17 with CC",23608,22155,23865,22512,24274,22917,17477,16636
+281,"Trauma to Skin, Subcutaneous Tissue and
+Breast, Age Greater than 17 without CC",9991,9458,9805,9240,9317,8789,6244,5939
+282,"Trauma to Skin, Subcutaneous Tissue and
+Breast, Age 0-17",.,.,.,.,.,.,0,0
+283,Minor Skin Disorders with CC,7784,7358,8271,7812,8385,7931,6186,5874
+284,Minor Skin Disorders without CC,2752,2622,2751,2620,2700,2555,1860,1779
+285,"Amputation of Lower Limb for Endocrine,
+Nutritional and Metabolic Disorders",7929,7600,8017,7671,8455,8120,6201,6009
+286,Adrenal and Pituitary Procedures,2741,2708,2844,2818,2997,2959,2282,2262
+287,"Skin Grafts and Wound Debridement for
+Endocrine, Nutritional and Metabolic Disorders",6458,6169,5862,5603,5475,5218,3921,3769
+288,Operating Room Procedures for Obesity,10571,10560,11230,11211,8649,8637,8250,8239
+289,Parathyroid Procedures,6747,6707,6115,6073,5782,5744,4197,4182
+290,Thyroid Procedures,11156,10919,12058,11792,12122,11875,9220,9048
+291,Thyroglossal Procedures,60,60,65,65,50,50,53,53
+292,"Other Endocrine, Nutritional and Metabolic O.R.
+Procedures with CC",7404,7246,7612,7459,7742,7554,6035,5910
+293,"Other Endocrine, Nutritional and Metabolic O.R.
+Procedures without CC",344,342,328,328,306,306,230,229
+294,"Diabetes, Age Greater than 35",128658,109159,130759,110412,130495,109933,94010,80750
+295,"Diabetes, Age 0-35",4587,2610,4874,2692,5094,2857,3744,2188
+296,"Nutritional and Miscellaneous Metabolic
+Disorders, Age Greater than 17 with CC",273659,247332,266069,241288,243885,221397,192930,177067
+297,"Nutritional and Miscellaneous Metabolic
+Disorders, Age Greater than 17 without CC",58166,54837,56918,53568,52930,49783,39151,37060
+298,"Nutritional and Miscellaneous Metabolic
+Disorders, Age 0-17",145,125,168,141,178,152,145,130
+299,Inborn Errors of Metabolism,3026,2416,3650,2924,4000,3225,2953,2383
+300,Endocrine Disorders with CC,23926,21979,24918,22894,24985,22963,18928,17586
+301,Endocrine Disorders without CC,6025,5687,6303,5906,6021,5668,4257,3998
+302,Kidney Transplant,9880,9865,10277,10266,10881,10863,7930,7925
+303,"Kidney, Ureter and Major Bladder Procedures for
+Neoplasm",24213,23756,24815,24345,23546,23137,14863,14658
+304,"Kidney, Ureter and Major Bladder Procedures for
+Non-neoplasms with CC",13937,12911,14084,13083,14002,13031,10378,9679
+305,"Kidney, Ureter and Major Bladder Procedures for
+Non-neoplasms without CC",3083,2986,3035,2932,2891,2807,2158,2105
+306,Prostatectomy with CC,6110,6051,5536,5494,5179,5138,3777,3750
+307,Prostatectomy without CC,2054,2048,1839,1828,1581,1580,937,935
+308,Minor Bladder Procedures with CC,6965,6860,6494,6400,5917,5827,3574,3524
+309,Minor Bladder Procedures without CC,3521,3487,3237,3207,2956,2935,1914,1904
+310,Transurethral Procedures with CC,25671,24357,24854,23571,24149,22839,17568,16867
+311,Transurethral Procedures without CC,6416,6198,5719,5521,4871,4709,3530,3437
+312,"Urethral Procedures, Age Greater than 17 with
+CC",1440,1415,1329,1308,1351,1326,956,942
+313,"Urethral Procedures, Age Greater than 17 without
+CC",524,515,486,476,458,449,332,328
+314,"Urethral Procedures, Age 0-17",.,.,.,.,.,.,0,0
+315,"Other Kidney and Urinary Tract Operating Room
+Procedures",36000,34850,34498,33456,34828,33749,23987,23421
+316,Renal Failure,217649,182418,244359,205253,277747,232366,224242,192071
+317,Admission for Renal Dialysis,2981,2710,3073,2761,2820,2553,2062,1905
+318,Kidney and Urinary Tract Neoplasms with CC,8817,7705,8754,7667,8737,7633,6117,5385
+319,Kidney and Urinary Tract Neoplasms without CC,1992,1821,1961,1780,1853,1678,1245,1124
+320,"Kidney and Urinary Tract Infections, Age Greater
+than 17 with CC",251151,218525,264410,230087,270528,234654,199046,176152
+321,"Kidney and Urinary Tract Infections, Age Greater
+than 17 without CC",50448,46322,53477,48843,53385,48490,37885,34819
+322,"Kidney and Urinary Tract Infections, Age 0-17",119,89,123,95,140,116,92,83
+323,Urinary Stones with CC and/or ESW Lithotripsy,21560,20348,21294,20048,20237,19119,14871,14126
+324,Urinary Stones without CC,5913,5694,5303,5095,4523,4359,3100,2970
+325,"Kidney and Urinary Tract Signs and Symptoms,
+Age Greater than 17 with CC",11791,11141,12139,11465,11843,11131,8707,8250
+326,"Kidney and Urinary Tract Signs and Symptoms,
+Age Greater than 17 without CC",4287,4046,4237,3995,4089,3795,2718,2577
+327,"Kidney and Urinary Tract Signs and Symptoms,
+Age 0-17",.,.,19,18,.,.,14,13
+328,"Urethral Stricture, Age Greater than 17 with CC",662,646,605,595,611,595,414,409
+329,"Urethral Stricture, Age Greater than 17 without
+CC",114,111,77,73,79,78,57,52
+330,"Urethral Stricture, Age 0-17",0,0,0,0,.,.,0,0
+331,"Other Kidney and Urinary Tract Diagnoses, Age
+Greater than 17 with CC",61226,54785,62857,56020,62488,55418,46719,41806
+332,"Other Kidney and Urinary Tract Diagnoses, Age
+Greater than 17 without CC",7841,7331,7553,7054,6567,6063,4555,4252
+333,"Other Kidney and Urinary Tract Diagnoses, Age
+0-17",361,258,388,266,502,324,355,235
+334,Major Male Pelvic Procedures with CC,9756,9755,9431,9430,9302,9297,7432,7432
+335,Major Male Pelvic Procedures without CC,12243,12240,12346,12342,13451,13447,11617,11614
+336,Transurethral Prostatectomy with CC,30168,29849,26927,26632,24254,23963,16293,16134
+337,Transurethral Prostatectomy without CC,23787,23675,20766,20656,18499,18396,12249,12200
+338,"TESTES PROCEDURES, FOR MALIGNANCY",634,633,700,698,552,552,319,319
+339,"Testes Procedures for Nonmalignancy, Age
+Greater than 17",1278,1269,1198,1188,1131,1123,771,767
+340,"Testes Procedures for Nonmalignancy, Age 0-17",.,.,.,.,.,.,.,.
+341,Penis Procedures,3214,3144,2958,2907,2722,2667,1944,1911
+342,"Circumcision, Age Greater than 17",530,530,458,458,441,441,272,272
+344,"Other Male Reproductive System O.R.
+Procedures for Malignancy",2568,2372,2180,2014,2018,1846,1317,1193
+345,"Other Male Reproductive System O.R.
+Procedures Except for Malignancy",1456,1444,1338,1327,1285,1270,960,951
+346,Malignancy of Male Reproductive System with CC,6513,5681,6326,5557,5681,4970,3981,3496
+347,"Malignancy of Male Reproductive System without
+CC",1578,1420,1433,1305,1402,1263,890,790
+348,Benign Prostatic Hypertrophy with CC,4763,4606,4990,4819,5008,4806,3574,3436
+349,Benign Prostatic Hypertrophy without CC,946,904,1029,974,1066,1010,676,626
+350,Inflammation of the Male Reproductive System,7938,7441,8168,7665,8174,7704,6157,5749
+351,"Sterilization, Male",.,.,.,.,.,.,0,0
+352,Other Male Reproductive System Diagnoses,1381,1303,1543,1447,1563,1430,1055,991
+353,"Pelvic Evisceration, Radical Hysterectomy and
+Radical Vulvectomy",2887,2871,3155,3130,2694,2681,1939,1933
+354,"Uterine and Adnexa Procedures for
+Nonovarian/Adnexal Malignancy with CC",7645,7627,7566,7555,7293,7285,5237,5228
+355,"Uterine and Adnexa Procedures for
+Nonovarian/Adnexal Malignancy without CC",4955,4941,4981,4975,4715,4712,3397,3391
+356,"Female Reproductive System Reconstructive
+Procedures",23425,23282,22132,22004,21223,21109,15087,15026
+357,"Uterine and Adnexa Procedures for Ovarian or
+Adnexal Malignancy",5580,5540,5549,5519,5320,5294,3735,3712
+358,"Uterine and Adnexa Procedures for
+Nonmalignancy with CC",20819,20779,20690,20642,19590,19548,13706,13684
+359,"Uterine and Adnexa Procedures for
+Nonmalignancy without CC",29094,29060,28401,28356,26656,26608,19184,19165
+360,"Vagina, Cervix and Vulva Procedures",14637,14511,14169,14073,14062,13952,9823,9761
+361,Laparoscopy and Incisional Tubal Interruption,275,274,298,298,251,251,182,182
+362,Endoscopic Tubal Interruption,.,.,.,.,.,.,.,.
+363,"D and C, Conization and Radio-Implant for
+Malignancy",2121,1821,1948,1680,1601,1404,1205,1079
+364,"D and C, Conization Except for Malignancy",1446,1433,1322,1318,1326,1313,1073,1069
+365,"Other Female Reproductive System O.R.
+Procedures",1628,1618,1606,1592,1536,1528,1058,1051
+366,"Malignancy of Female Reproductive System with
+CC",6696,5753,6574,5667,6554,5614,4413,3867
+367,"Malignancy of Female Reproductive System
+without CC",1616,1465,1703,1540,1562,1388,1011,921
+368,Infections of Female Reproductive System,4300,4096,4590,4376,4486,4282,3542,3393
+369,"Menstrual and Other Female Reproductive
+System Disorders",4749,4489,4912,4660,4738,4478,3283,3145
+370,Cesarean Section with CC,1907,1905,2302,2301,2483,2481,1916,1916
+371,Cesarean Section without CC,2409,2408,2711,2711,3049,3047,2322,2322
+372,Vaginal Delivery with Complicating Diagnoses,1225,1221,1444,1441,1572,1566,1168,1166
+373,Vaginal Delivery without Complicating Diagnoses,4950,4938,5432,5420,5673,5655,4508,4502
+374,Vaginal Delivery with Sterilization and/or D and C,150,150,151,150,141,141,105,105
+375,"Vaginal Delivery with Operating Room Procedure
+Except Sterilization and/or D & C",.,.,13,13,.,.,.,.
+376,"Postpartum and Postabortion Diagnoses without
+O.R. Procedure",489,449,573,542,636,579,467,429
+377,"Postpartum and Postabortion Diagnoses with
+O.R. Procedure",84,82,109,104,95,94,74,71
+378,Ectopic Pregnancy,200,197,198,197,192,189,151,149
+379,Threatened Abortion,536,446,493,437,524,454,337,307
+380,Abortion without D and C,110,109,126,121,112,112,102,100
+381,"Abortion with D and C, Aspiration Curettage or
+Hysterotomy",212,211,158,156,206,206,159,159
+382,False Labor,49,47,48,46,54,52,32,32
+383,"Other Antepartum Diagnoses with Medical
+Complications",2785,1902,3295,2268,3521,2355,2607,1836
+384,"Other Antepartum Diagnoses without Medical
+Complications",167,156,188,180,188,173,163,157
+385,"Neonates, Died or Transferred to another Acute
+Care Facility",242,205,306,254,383,311,219,192
+386,"Extreme Immaturity or Respiratory Distress
+Syndrome of Neonate",43,42,52,51,54,52,33,32
+387,Prematurity with Major Problems,0,0,.,.,.,.,0,0
+388,Prematurity without Major Problems,0,0,0,0,.,.,0,0
+389,Full Term Neonate with Major Problems,140,138,178,177,202,194,139,137
+390,Neonate with Other Significant Problems,34,34,49,47,45,45,31,30
+391,Normal Newborn,.,.,.,.,.,.,0,0
+392,"Splenectomy, Age Greater than 17",2160,2157,2099,2095,1904,1902,1367,1366
+393,"Splenectomy, Age 0-17",.,.,0,0,0,0,0,0
+394,"Other Operating Room Procedures of the Blood
+and Blood-Forming Organs",2837,2802,2708,2692,2734,2704,2118,2099
+395,"Red Blood Cell Disorders, Age Greater than 17",131095,103369,132456,104506,132584,104866,96900,77467
+396,"Red Blood Cell Disorders, Age 0-17",22,22,32,25,33,31,20,18
+397,Coagulation Disorders,18942,17011,17628,15734,16436,14592,11693,10408
+398,"Reticuloendothelial and Immunity Disorders with
+CC",19886,18239,20907,19238,19255,17587,5644,5362
+399,"Reticuloendothelial and Immunity Disorders
+without CC",2311,2162,2192,2064,2109,1978,1052,1009
+401,"Lymphoma and Nonacute Leukemia with Other
+O.R. Procedure with CC",6406,6328,6495,6406,6240,6140,4414,4361
+402,"Lymphoma and Nonacute Leukemia with Other
+O.R. Procedure without CC",1411,1402,1311,1301,1173,1169,803,800
+403,Lymphoma and Nonacute Leukemia with CC,36306,29152,36226,28884,33170,26782,19552,16321
+404,Lymphoma and Nonacute Leukemia without CC,5979,5195,5760,4993,5139,4507,3212,2862
+405,"Acute Leukemia without Major O.R. Procedure,
+Age 0-17",.,.,0,0,0,0,.,.
+406,"Myeloproliferative Disorders or Poorly
+Differentiated Neoplasms with Major O.R.
+Procedures with CC",2373,2354,2340,2325,2256,2232,1612,1605
+407,"Myeloproliferative Disorders or Poorly
+Differentiated Neoplasms with Major O.R.
+Procedures without CC",621,619,641,637,584,581,438,437
+408,"Myeloproliferative Disorders or Poorly
+Differentiated Neoplasms with Other O.R.
+Procedures",2189,2162,2016,1995,1986,1960,1291,1276
+409,Radiotherapy,2339,2012,2183,1850,1928,1626,1423,1134
+410,"Chemotherapy without Acute Leukemia as
+Secondary Diagnosis",29996,14056,30252,13683,29737,13407,21805,10091
+411,History of Malignancy without Endoscopy,343,311,353,322,459,415,310,276
+412,History of Malignancy with Endoscopy,14,14,.,.,.,.,.,.
+413,"Other Myeloproliferative Disorders or Poorly
+Differentiated Neoplasm Diagnoses with CC",6564,6168,6857,6459,5908,5522,3974,3774
+414,"Other Myeloproliferative Disorders or Poorly
+Differentiated Neoplasm Diagnoses without CC",1362,1275,1310,1207,1155,1076,759,710
+415,"O.R. Procedure for Infectious and Parasitic
+Diseases",52716,50137,57378,54674,44994,43074,.,.
+416,"Septicemia, Age Greater than 17",276103,240552,323164,279763,258731,225567,.,.
+417,"Septicemia, Age 0-17",47,40,56,53,62,57,40,39
+418,Postoperative and Posttraumatic Infections,36045,32450,36782,33262,36627,33098,26812,24458
+419,"Fever of Unknown Origin, Age Greater than 17
+with CC",17541,16757,19506,18614,19130,18272,13962,13398
+420,"Fever of Unknown Origin, Age Greater than 17
+without CC",3526,3428,3723,3617,3427,3328,2419,2354
+421,"Viral Illness, Age Greater than 17",11116,10821,14301,13888,12302,11929,7979,7776
+422,"Viral Illness and Fever of Unknown Origin, Age
+0-17",98,83,101,88,114,102,80,74
+423,"Other Infectious and Parasitic Diseases
+Diagnoses",15236,13744,16311,14690,16413,14694,11951,10837
+424,"O.R. Procedure with Principal Diagnosis of Mental
+Illness",2135,2108,1969,1942,1787,1769,1196,1183
+425,"Acute Adjustment Reactions and Psychosocial
+Dysfunction",22249,21028,20222,19183,17128,16273,11675,11082
+426,Depressive Neuroses,26792,23843,25685,23043,25759,23074,18742,17063
+427,Neuroses Except Depressive,7722,6826,7803,6920,7641,6814,5534,5036
+428,Disorders of Personality and Impulse Control,4057,3295,4008,3310,3706,3057,2584,2239
+429,Organic Disturbances and Mental Retardation,85320,71287,80296,67624,74938,63153,51366,43739
+430,Psychoses,454346,268238,456830,271690,451885,269060,332134,212699
+431,Childhood Mental Disorders,2309,1955,2505,2201,2797,2431,2240,2001
+432,Other Mental Disorder Diagnoses,1384,1225,1379,1249,1677,1503,1260,1133
+433,"Alcohol/Drug Abuse or Dependence, Left Against
+Medical Advice",6665,5428,6511,5340,6096,5022,4511,3803
+434,NLV - ALC/DRG ABSE/DEP DTOX OR OTHR CC,0,0,0,0,.,.,0,0
+435,NLV - ALC/DRG ABSE/DEP DTOX OTH W/O CC,0,0,0,0,0,0,.,.
+439,Skin Grafts for Injuries,1808,1750,1751,1704,1944,1887,1452,1420
+440,Wound Debridements for Injuries,5947,5797,5538,5397,5189,5067,3551,3470
+441,Hand Procedures for Injuries,804,803,686,683,722,722,552,547
+442,Other O.R. Procedures for Injuries with CC,18182,17809,18649,18276,19113,18661,14432,14132
+443,Other O.R. Procedures for Injuries without CC,3467,3447,3519,3481,3255,3228,2534,2520
+444,"Traumatic Injury, Age Greater than 17 with CC",11632,10675,11677,10679,11691,10665,7980,7349
+445,"Traumatic Injury, Age Greater than 17 without CC",6707,6124,6845,6179,6369,5777,3931,3622
+446,"Traumatic Injury, Age 0-17",0,0,0,0,.,.,0,0
+447,"Allergic Reactions, Age Greater than 17",6535,6243,6535,6244,6706,6417,5229,4981
+448,"Allergic Reactions, Age 0-17",.,.,0,0,.,.,0,0
+449,"Poisoning and Toxic Effects of Drugs, Age
+Greater than 17 with CC",41615,38735,42877,39923,44579,41375,34983,32714
+450,"Poisoning and Toxic Effects of Drugs, Age
+Greater than 17 without CC",8416,8192,8019,7785,8065,7815,6241,6076
+451,"Poisoning and Toxic Effects of Drugs, Age 0-17",.,.,.,.,.,.,.,.
+452,Complications of Treatment with CC,31141,29299,32595,30666,33881,31922,25407,23979
+453,Complications of Treatment without CC,6823,6623,6882,6683,5956,5776,4278,4145
+454,"Other Injury, Poisoning and Toxic Effect
+Diagnoses with CC",4531,4350,5564,5378,5209,5068,4033,3913
+455,"Other Injury, Poisoning and Toxic Effect
+Diagnoses without CC",1212,1181,1272,1238,1139,1090,873,837
+461,"O.R. Procedure with Diagnosis of Other Contact
+with Health Services",8886,8767,7761,7650,7811,7700,6842,6765
+462,Rehabilitation,607595,534711,596894,523533,615086,533177,513411,446128
+463,Signs and Symptoms with CC,68161,62882,70319,64677,75091,68907,66725,61640
+464,Signs and Symptoms without CC,30828,28272,32592,29770,32468,29617,24692,22830
+465,"Aftercare with History of Malignancy as
+Secondary Diagnosis",3905,3756,3633,3475,3705,3571,2493,2421
+466,"Aftercare without History of Malignancy as
+Secondary Diagnosis",46816,42720,50242,45828,52142,47351,35432,32364
+467,Other Factors Influencing Health Status,22215,19812,23174,20691,24836,21979,17686,15774
+468,"Extensive O.R. Procedure Unrelated to Principal
+Diagnosis",53513,52925,53118,52541,52840,52312,38193,37860
+469,"Principal Diagnosis Invalid as Discharge
+Diagnosis",108,95,93,83,113,98,84,73
+470,Ungroupable,1736,1598,1760,1614,1742,1620,988,913
+471,"Bilateral or Multiple Major Joint Procedures of
+Lower Extremity",15847,15821,16802,16789,17855,17810,10505,10494
+473,"Acute Leukemia without Major O.R. Procedure,
+Age Greater than 17",9580,7332,9205,7153,9251,7092,6707,5296
+475,"Respiratory System Diagnosis with Ventilator
+Support",123283,110284,140642,125600,106817,96152,28,28
+476,"Prostatic O.R. Procedure Unrelated to Principal
+Diagnosis",2855,2843,2807,2797,2528,2519,1728,1721
+477,"NON-EXTENSIVE O.R. PROCEDURE
+UNRELATED TO PRINCIPAL DIAGNOSIS",26652,26411,28144,27946,27031,26810,19760,19623
+478,OTHER VASCULAR PROCEDURES W CC,113027,100514,86898,78856,.,.,0,0
+479,Other Vascular Procedures without CC,24951,23277,27299,25218,27574,25265,19082,17757
+480,Liver Transplant and/or Intestinal Transplant,1098,1086,1246,1232,1382,1367,1016,1011
+481,Bone Marrow Transplant,1287,1260,1475,1444,1566,1536,1138,1125
+482,"Tracheostomy for Face, Mouth and Neck
+Diagnoses",5247,5004,5144,4909,4797,4595,3480,3333
+483,"TRAC W MECH VENT 96+HRS OR PDX EXC
+FACE/MOUTH/NECK DX",35719,35403,0,0,0,0,0,0
+484,Craniotomy for Multiple Significant Trauma,438,438,448,448,451,451,327,327
+485,"Limb Reattachment, Hip and Femur Procedures
+for Multiple Significant Trauma",3465,3464,3591,3584,3821,3817,2943,2942
+486,"Other O.R. Procedures for Multiple Significant
+Trauma",2467,2457,2578,2570,2879,2864,2144,2137
+487,Other Multiple Significant Trauma,6834,6368,7204,6737,7567,7058,5245,4956
+488,HIV with Extensive O.R. Procedure,795,743,854,807,819,789,598,576
+489,HIV with Major Related Condition,14200,9146,14567,9571,14800,9448,10649,7266
+490,HIV with or without Other Related Condition,5936,4662,6238,4793,6334,4739,4492,3537
+491,"Major Joint and Limb Reattachment Procedures
+of Upper Extremity",20368,20032,22843,22437,23901,23468,18794,18604
+492,"Chemotherapy with Acute Leukemia as
+Secondary Diagnosis or with Use of High-Dose
+Chemotherapy Agent",4492,2657,4272,2554,4228,2541,3182,1939
+493,"Laparoscopic Cholecystectomy without Common
+Duct Exploration with CC",61280,61272,60629,60622,60074,60067,43783,43779
+494,"Laparoscopic Cholecystectomy without Common
+Duct Exploration without CC",25711,25708,23958,23955,22471,22466,15700,15699
+495,Lung Transplant,374,374,393,393,416,416,308,308
+496,Combined Anterior/Posterior Spinal Fusion,6822,6794,3650,3625,4282,4269,3510,3500
+497,Spinal Fusion Except Cervical with CC,27762,27393,32695,32247,32482,32080,25204,24948
+498,Spinal Fusion Except Cervical without CC,18091,17950,21864,21683,22170,21984,16844,16699
+499,"Back and Neck Procedures Except Spinal Fusion
+with CC",35365,34823,34088,33640,33776,33320,25011,24740
+500,"Back and Neck Procedures Except Spinal Fusion
+without CC",47795,46923,44893,44116,43684,42927,30867,30470
+501,"Knee Procedures with Principal Diagnosis of
+Infection with CC",3137,2956,3137,2980,3034,2891,2369,2248
+502,"Knee Procedures with Principal Diagnosis of
+Infection without CC",740,715,719,698,663,646,426,418
+503,"Knee Procedures without Principal Diagnosis of
+Infection",5841,5750,5826,5743,5456,5382,3879,3836
+504,"Extensive Burns or Full Thickness Burns with
+Mechanical Ventilation 96+ Hours with Skin Graft",154,154,202,200,188,185,175,172
+505,"Extensive Burns or Full Thickness Burns with
+Mechanical Ventilation 96+ Hours without Skin
+Graft",190,187,221,217,177,173,140,137
+506,"Full Thickness Burn with Skin Graft or Inhalation
+Injury with CC or Significant Trauma",1067,1025,1037,998,1038,993,735,699
+507,"Full Thickness Burn with Skin Graft or Inhalation
+Injury without CC or Significant Trauma",302,294,354,340,260,248,244,236
+508,"Full Thickness Burn without Skin Graft or
+Inhalation Injury with CC or Significant Trauma",862,769,844,779,738,684,534,487
+509,"Full Thickness Burn without Skin Graft or
+Inhalation Injury without CC or Significant Trauma",285,273,261,246,224,207,129,116
+510,"Nonextensive Burns with CC or Significant
+Trauma",2148,1974,2126,1937,1979,1805,1563,1432
+511,"Nonextensive Burns without CC or Significant
+Trauma",866,813,819,763,704,669,534,498
+512,Simultaneous Pancreas/Kidney Transplant,521,521,552,552,580,580,378,378
+513,Pancreas Transplant,238,237,208,205,165,164,128,128
+515,"Cardiac Defibrillator Implant without Cardiac
+Catheterization",29731,29494,48764,48457,54305,53904,36262,36054
+516,"PERCUTANEOUS CARDIOVASCULAR PROC W
+AMI",29321,28996,12215,12114,0,0,0,0
+517,"PERC CARDIO PROC W NON-DRUG ELUTING
+STENT W/O AMI",48067,46677,17373,17087,0,0,0,0
+518,"Percutaneous Cardiovascular Procedures without
+Acute Myocardial Infarction without Coronary
+Artery Stent Implant",38797,37726,32491,31658,24754,24203,19225,18867
+519,Cervical Spinal Fusion with CC,11664,11517,12720,12568,13822,13611,10866,10742
+520,Cervical Spinal Fusion without CC,15532,15387,16465,16322,17317,17157,13528,13435
+521,Alcohol/Drug Abuse or Dependence with CC,41809,34166,43978,35689,46393,37330,34154,28555
+522,"Alcohol/Drug Abuse or Dependence with
+Rehabilitation Therapy without CC",6713,5819,6996,6076,6870,5949,5394,4745
+523,"Alcohol/Drug Abuse or Dependence without
+Rehabilitation Therapy without CC",32445,24433,30115,22887,28830,21958,21496,17001
+524,Transient Ischemia,126189,117688,116911,109484,114173,106910,82639,78043
+525,Other Heart Assist System Implant,329,324,189,182,161,160,98,98
+526,"PERCUTNEOUS CARDIOVASULAR PROC W
+DRUG ELUTING STENT W AMI",63323,62631,55979,55461,0,0,0,0
+527,"PERCUTNEOUS CARDIOVASULAR PROC W
+DRUG ELUTING STENT W/O AMI",211284,197507,177024,166371,0,0,0,0
+528,"Intracranial Vascular Procedure with Principal
+Diagnosis of Hemorrhage",1794,1784,1761,1755,1664,1652,1188,1185
+529,Ventricular Shunt Procedures with CC,4158,3878,5196,4790,5163,4823,3443,3234
+530,Ventricular Shunt Procedures without CC,2375,2315,3492,3383,3066,2969,2043,1983
+531,Spinal Procedures with CC,4827,4704,4959,4832,5201,5071,3976,3884
+532,Spinal Procedures without CC,2633,2549,2784,2711,2905,2834,2038,1997
+533,Extracranial Vascular Procedures with CC,46650,44800,45349,43637,44514,42839,28782,27884
+534,Extracranial Vascular Procedures without CC,43549,41653,40777,39051,36655,35147,23392,22576
+535,"Cardiac Defibrillator Implant with Cardiac
+Catheterization with Acute Myocardial Infarction,
+Heart Failure, or Shock",12975,12958,12934,12931,8165,8163,5753,5751
+536,"Cardiac Defibrillator Implant with Cardiac
+Catheterization without Acute Myocardial
+Infarction, Heart Failure, or Shock",18289,18260,13574,13569,7338,7336,5092,5090
+537,"Local Excision and Removal of Internal Fixation
+Devices Except Hip and Femur with CC",8653,8380,9068,8777,9541,9214,7138,6922
+538,"Local Excision and Removal of Internal Fixation
+Devices Except Hip and Femur without CC",5434,5374,5404,5325,4958,4878,3540,3505
+539,"Lymphoma and Leukemia with Major O.R.
+Procedure with CC",5131,5087,5074,5038,4788,4757,3324,3297
+540,"Lymphoma and Leukemia with Major O.R.
+Procedure without CC",1616,1608,1576,1568,1442,1427,1066,1054
+541,"Tracheostomy with Mechanical Ventilation 96+
+Hours or Principal Diagnosis Except Face, Mouth,
+and Neck with Major O.R. Procedure",5747,5740,25003,24922,24270,24186,17482,17434
+542,"Tracheostomy with Mechanical Ventilation 96+
+Hours or Principal Diagnosis Except Face, Mouth,
+and Neck without Major O.R. Procedure",5135,5124,24059,23795,22846,22635,17098,16944
+543,"Craniotomy with Implantation of
+Chemotherapeutic Agent or Acute Complex
+Central Nervous System Principal Diagnosis",1317,1311,5414,5373,5398,5347,4371,4340
+544,"Major Joint Replacement or Reattachment of
+Lower Extremity",0,0,108681,108232,437613,422123,329356,320771
+545,Revision of Hip or Knee Replacement,0,0,10398,10191,40422,38069,32501,30899
+546,"Spinal Fusions Except Cervical With Curvature of
+the Spine or Malignancy",0,0,802,798,3860,3794,3338,3271
+547,"Coronary Bypass with Cardiac Catheterization
+with Major Cardiovascular Diagnosis",0,0,7537,7536,28532,28527,19740,19736
+548,"Coronary Bypass with Cardiac Catheterization
+without Major Cardiovascular Diagnosis",0,0,6827,6826,25195,25191,16403,16400
+549,"Coronary Bypass without Cardiac Catheterization
+with Major Cardiovascular Diagnosis",0,0,3185,3185,12557,12554,8677,8677
+550,"Coronary Bypass without Cardiac Catheterization
+without Major Cardiovascular Diagnosis",0,0,7145,7145,28928,28925,19939,19937
+551,"Permanent Cardiac Pacemaker Implant with
+Major Cardiovascular Diagnosis or AICD Lead or
+Generator",0,0,12475,12457,49177,48926,34968,34814
+552,"Other Permanent Cardiac Pacemaker Implant
+without Major Cardiovascular Diagnosis",0,0,18436,18425,76229,76141,55045,54994
+553,"Other Vascular Procedures with CC with Major
+Cardiovascular Diagnosis",0,0,10552,10330,43655,41025,31554,29990
+554,"Other Vascular Procedures with CC without Major
+Cardiovascular Diagnosis",0,0,18622,17970,76224,68643,55314,50791
+555,"Percutaneous Cardiovascular Procedure with
+Major Cardiovascular Diagnosis",0,0,8853,8764,41357,40321,50502,49229
+556,"Percutaneous Cardiovascular Procedure with Non
+Drug-Eluting Stent without Major Cardiovascular
+Diagnosis",0,0,3671,3635,21885,21527,32141,31448
+557,"Percutaneous Cardiovascular Procedure with
+Drug-Eluting Stent with Major Cardiovascular
+Diagnosis",0,0,31316,30873,121050,116979,60423,58806
+558,"Percutaneous Cardiovascular Procedure with
+Drug-Eluting Stent without Major Cardiovascular
+Diagnosis",0,0,43685,42291,173882,162997,88096,83654
+559,"Acute Ischemic Stroke with Use of Thrombolytic
+Agent",0,0,1111,1111,4925,4914,3958,3943
+560,"Bacterial and Tuberculosis Infections of Nervous
+System",0,0,0,0,1178,984,3368,2781
+561,"Non-Bacterial Infections of Nervous System
+Except Viral",0,0,0,0,926,809,2629,2285
+562,"Seizure, Age Greater than 17 with CC",0,0,0,0,14966,13768,44010,38300
+563,"Seizure, Age Greater than 17 without CC",0,0,0,0,6048,5673,17252,15369
+564,"Headaches, Age Greater than 17",0,0,0,0,3824,3632,11752,10796
+565,"Respiratory System Diagnosis with Ventilator
+Support 96+ Hours",0,0,0,0,12993,12494,40435,37275
+566,"Respiratory System Diagnosis with Ventilator
+Support <96 Hours",0,0,0,0,19747,19058,58708,55231
+567,"Stomach, Esophageal and Duodenal Procedures,
+Age Greater than 17 with CC with Major
+Gastrointestinal Diagnosis",0,0,0,0,2542,2536,7269,7216
+568,"Stomach, Esophageal and Duodenal Procedures,
+Age Greater than 17 with CC without Major
+Gastrointestinal Diagnosis",0,0,0,0,3826,3812,11269,11174
+569,"Major Small and Large Bowel Procedures with CC
+with Major Gastrointestinal Diagnosis",0,0,0,0,15365,15292,45795,45158
+570,"Major Small and Large Bowel Procedures with CC
+without Major Gastrointestinal Diagnosis",0,0,0,0,15998,15960,46351,45941
+571,Major Esophageal Disorders,0,0,0,0,3222,3142,9486,9193
+572,"Major Gastrointestinal Disorders and Peritoneal
+Infections",0,0,0,0,17737,15421,58357,48198
+573,Major Bladder Procedures,0,0,0,0,1876,1874,5209,5185
+574,"Major Hematologic/Immunologic Diagnoses
+Except Sickle Cell Crisis and Coagulation
+Disorders",0,0,0,0,5618,5200,17437,15232
+575,"Septicemia with Mechanical Ventilation 96+
+Hours, Age Greater than 17",0,0,0,0,5054,4917,16936,15882
+576,"Septicemia without Mechanical Ventilation 96+
+Hours, Age Greater than 17",0,0,0,0,83078,75983,253994,222784
+577,Carotid Artery Stent Procedure,0,0,0,0,2798,2748,6976,6745
+578,"Infectious and Parasitic Diseases with O.R.
+Procedure",0,0,0,0,10145,9968,32395,31284
+579,"Postoperative or Post-traumatic Infections with
+O.R. Procedure",0,0,0,0,4895,4768,14320,13630
+999,,225,188,284,248,127,100,67,51

@@ -1,0 +1,4 @@
+"The Outpatient file contains final action, fee-for-service claims data submitted by institutional outpatient providers. Examples of institutional outpatient providers include hospital outpatient departments, rural health clinics, renal dialysis facilities, outpatient rehabilitation facilities, comprehensive outpatient rehabilitation facilities, and community mental health centers."
+Outpatient Data Dictionary - https://resdac.org/cms-data/files/op-rif/data-documentation
+"Definition of Revenue Center Code: The provider-assigned revenue code for each cost center for which a separate charge is billed (type of accommodation or ancillary). A cost center is a division or unit within a hospital (e.g., radiology, emergency room, pathology). EXCEPTION: Revenue center code 0001 represents the total of all revenue centers included on the claim."
+https://resdac.org/cms-data/files/op-rif/data-documentation
