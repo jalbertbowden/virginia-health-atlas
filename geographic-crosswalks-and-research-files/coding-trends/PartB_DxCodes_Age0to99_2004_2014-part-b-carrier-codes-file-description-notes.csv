@@ -1,0 +1,4 @@
+Note
+"The Carrier file (also known as the Physician/Supplier Part B claims file) contains final action fee-for-service claims submitted on a CMS-1500 claim form. Most of the claims are from non-institutional providers, such as physicians, physician assistants, clinical social workers, nurse practitioners. Claims for other providers, such as free-standing facilities are also found in the Carrier file.  Examples include independent clinical laboratories, ambulance providers, and free-standing ambulatory surgical centers."
+Part B Data Dictionary
+"Definition of Part B ICD-9 Diagnosis Code: The diagnosis code identifying the diagnosis, condition, problem or other reason for the admission/encounter/visit shown in the medical record to be chiefly responsible for the services provided."
