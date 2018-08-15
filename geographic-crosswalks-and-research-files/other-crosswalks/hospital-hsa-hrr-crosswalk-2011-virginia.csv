@@ -1,0 +1,83 @@
+provider,hospital,hospcity,hospstate,hsanum,hsacity,hsastate,hrrnum,hrrcity,hrrstate
+490001,Norton Community Hospital,Norton,VA,49039,Norton,VA,376,Kingsport,TN
+490002,Russell County Medical Center,Lebanon,VA,49027,Lebanon,VA,376,Kingsport,TN
+490004,Rockingham Memorial Hospital,Harrisonburg,VA,49023,Harrisonburg,VA,427,Charlottesville,VA
+490005,Winchester Medical Center,Winchester,VA,49063,Winchester,VA,435,Winchester,VA
+490007,Sentara Norfolk General Hospital,Norfolk,VA,49038,Norfolk,VA,430,Norfolk,VA
+490009,University of Virginia Med Ctr,Charlottesville,VA,49007,Charlottesville,VA,427,Charlottesville,VA
+490011,Bon Secours-DePaul Med Ctr,Norfolk,VA,49038,Norfolk,VA,430,Norfolk,VA
+490012,Lee Regional Medical Center,Pennington Gap,VA,49041,Pennington Gap,VA,376,Kingsport,TN
+490013,Halifax Regional Health System,Halifax,VA,49052,South Boston,VA,312,Durham,NC
+490017,Bon Secours-Maryview Med Ctr,Portsmouth,VA,49043,Portsmouth,VA,430,Norfolk,VA
+490018,Augusta Health,Fishersville,VA,49054,Staunton,VA,427,Charlottesville,VA
+490019,Culpeper Regional Hospital,Culpeper,VA,49010,Culpeper,VA,427,Charlottesville,VA
+490020,John Randolph Medical Center,Hopewell,VA,49024,Hopewell,VA,431,Richmond,VA
+490021,Centra Lynchburg General Hosp,Lynchburg,VA,49032,Lynchburg,VA,428,Lynchburg,VA
+490022,Mary Washington Hospital,Fredericksburg,VA,49017,Fredericksburg,VA,431,Richmond,VA
+490023,Fauquier Hospital,Warrenton,VA,49060,Warrenton,VA,426,Arlington,VA
+490024,Carilion Medical Center,Roanoke,VA,49049,Roanoke,VA,432,Roanoke,VA
+490027,Mountain View Regional Med Ctr,Norton,VA,49039,Norton,VA,376,Kingsport,TN
+490032,VCU Health System,Richmond,VA,49048,Richmond,VA,431,Richmond,VA
+490033,Warren Memorial Hospital,Front Royal,VA,49018,Front Royal,VA,435,Winchester,VA
+490037,Riverside Shore Memorial Hosp,Nassawadox,VA,49036,Nassawadox,VA,430,Norfolk,VA
+490038,Smyth County Community Hospital,Marion,VA,49034,Marion,VA,376,Kingsport,TN
+490040,Inova Alexandria Hospital,Alexandria,VA,49002,Alexandria,VA,426,Arlington,VA
+490041,Mary Immaculate Hospital,Newport News,VA,49037,Newport News,VA,429,Newport News,VA
+490042,Carilion New River Valley Med Ctr,Christiansburg,VA,49006,Blacksburg,VA,432,Roanoke,VA
+490043,Inova Loudoun Hospital,Leesburg,VA,49028,Leesburg,VA,426,Arlington,VA
+490044,Sentara Obici Hospital,Suffolk,VA,49056,Suffolk,VA,430,Norfolk,VA
+490045,Prince William Hospital,Manassas,VA,49033,Manassas,VA,426,Arlington,VA
+490046,Sentara Leigh Hospital,Norfolk,VA,49038,Norfolk,VA,430,Norfolk,VA
+490048,Lewis-Gale Medical Center-Salem,Salem,VA,49051,Salem,VA,432,Roanoke,VA
+490050,Virginia Hosp Center - Arlington,Arlington,VA,49003,Arlington,VA,426,Arlington,VA
+490052,Riverside Regional Med Ctr,Newport News,VA,49037,Newport News,VA,429,Newport News,VA
+490053,Johnston Memorial Hospital,Abingdon,VA,49001,Abingdon,VA,376,Kingsport,TN
+490057,Sentara Virginia Beach General,Virginia Beach,VA,49059,Virginia Beach,VA,430,Norfolk,VA
+490059,Bon Secours-St. Mary's Hospital,Richmond,VA,49048,Richmond,VA,431,Richmond,VA
+490060,Clinch Valley Medical Center,Richlands,VA,49047,Richlands,VA,376,Kingsport,TN
+490063,Inova Fairfax Hospital,Falls Church,VA,49014,Falls Church,VA,426,Arlington,VA
+490066,Sentara Williamsburg Reg Med Ctr,Williamsburg,VA,49062,Williamsburg,VA,429,Newport News,VA
+490067,Southside Regional Med Ctr,Petersburg,VA,49042,Petersburg,VA,431,Richmond,VA
+490069,Bon Secours-Memorial Reg Med Ctr,Mechanicsville,VA,49048,Richmond,VA,431,Richmond,VA
+490075,Danville Regional Medical Center,Danville,VA,49011,Danville,VA,312,Durham,NC
+490077,Martha Jefferson Hospital,Charlottesville,VA,49007,Charlottesville,VA,427,Charlottesville,VA
+490079,Memorial Hospital,Martinsville,VA,49035,Martinsville,VA,312,Durham,NC
+490084,Riverside Tappahannock Hospital,Tappahannock,VA,49057,Tappahannock,VA,431,Richmond,VA
+490088,Bedford Memorial Hospital,Bedford,VA,49004,Bedford,VA,428,Lynchburg,VA
+490089,Carilion Franklin Memorial Hosp,Rocky Mount,VA,49050,Rocky Mount,VA,432,Roanoke,VA
+490090,Centra Southside Community Hosp,Farmville,VA,49015,Farmville,VA,431,Richmond,VA
+490092,Southampton Memorial Hospital,Franklin,VA,49016,Franklin,VA,430,Norfolk,VA
+490093,Sentara CarePlex Hospital,Hampton,VA,49037,Newport News,VA,429,Newport News,VA
+490094,Bon Secours-Richmond Community,Richmond,VA,49048,Richmond,VA,431,Richmond,VA
+490097,Southern Virginia Reg Med Ctr,Emporia,VA,49012,Emporia,VA,431,Richmond,VA
+490098,Community Memorial Healthcenter,South Hill,VA,49053,South Hill,VA,431,Richmond,VA
+490101,Inova Fair Oaks Hospital,Fairfax,VA,49013,Fairfax,VA,426,Arlington,VA
+490105,Southwestern VA Mental Hlth Inst,Marion,VA,49034,Marion,VA,376,Kingsport,TN
+490107,Reston Hospital Center,Reston,VA,49046,Reston,VA,426,Arlington,VA
+490109,Eastern State Hospital,Williamsburg,VA,49062,Williamsburg,VA,429,Newport News,VA
+490110,Montgomery Regional Hospital,Blacksburg,VA,49006,Blacksburg,VA,432,Roanoke,VA
+490111,Wythe County Community Hospital,Wytheville,VA,49067,Wytheville,VA,432,Roanoke,VA
+490112,CJW Medical Center,Richmond,VA,49048,Richmond,VA,431,Richmond,VA
+490113,Sentara Northern Virginia Med Ctr,Woodbridge,VA,49065,Woodbridge,VA,426,Arlington,VA
+490114,Wellmont Lonesome Pine Hospital,Big Stone Gap,VA,49005,Big Stone Gap,VA,376,Kingsport,TN
+490115,Twin County Regional Hospital,Galax,VA,49019,Galax,VA,320,Winston-Salem,NC
+490116,LewisGale Hospital Pulaski,Pulaski,VA,49044,Pulaski,VA,432,Roanoke,VA
+490117,Carilion Tazewell Community Hosp,Tazewell,VA,49058,Tazewell,VA,432,Roanoke,VA
+490118,Henrico Doctors' Hospital,Richmond,VA,49048,Richmond,VA,431,Richmond,VA
+490119,Sentara Princess Anne Hospital,Virginia Beach,VA,49059,Virginia Beach,VA,430,Norfolk,VA
+490120,Chesapeake Regional Med Ctr,Chesapeake,VA,49008,Chesapeake,VA,430,Norfolk,VA
+490122,Inova Mount Vernon Hospital,Alexandria,VA,49002,Alexandria,VA,426,Arlington,VA
+490123,Rappahannock General Hospital,Kilmarnock,VA,49026,Kilmarnock,VA,431,Richmond,VA
+490126,LewisGale Hospital Alleghany,Low Moor,VA,49030,Low Moor,VA,432,Roanoke,VA
+490127,Buchanan General Hospital,Grundy,VA,49021,Grundy,VA,376,Kingsport,TN
+490130,Riverside Walter Reed Hospital,Gloucester,VA,49020,Gloucester,VA,429,Newport News,VA
+490135,Catawba Hospital,Catawba,VA,49051,Salem,VA,432,Roanoke,VA
+490136,Bon Secours-St. Francis-Midlothian,Midlothian,VA,49048,Richmond,VA,431,Richmond,VA
+490140,Stafford Hospital,Stafford,VA,49017,Fredericksburg,VA,431,Richmond,VA
+490141,Spotsylvania Regional Med Ctr,Fredericksburg,VA,49017,Fredericksburg,VA,431,Richmond,VA
+491300,Bath Community Hospital,Hot Springs,VA,49025,Hot Springs,VA,427,Charlottesville,VA
+491302,Carilion Giles Community Hosp,Pearisburg,VA,49040,Pearisburg,VA,432,Roanoke,VA
+491304,Carilion Stonewall Jackson Hosp,Lexington,VA,49029,Lexington,VA,432,Roanoke,VA
+491305,Shenandoah Memorial Hospital,Woodstock,VA,49066,Woodstock,VA,435,Winchester,VA
+491306,Pioneer Community Hosp-Patrick Cty,Stuart,VA,49055,Stuart,VA,320,Winston-Salem,NC
+491307,Page Memorial Hospital,Luray,VA,49031,Luray,VA,435,Winchester,VA
